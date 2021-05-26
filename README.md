@@ -1,5 +1,5 @@
 # Typing Skills Test
-Want a simple tool to type out your typing skills with? This is a simple 1 file type racer. This was a modification from W3Schools to make it have a dark them and to make it more simpler. 
+Want a simple tool to try out your typing skills with? This is a simple 1 file type racer. This was a modification from W3Schools to make it have a dark them and to make it more simpler. 
 
 Download the file and keep it on your desktop or on a web server to use anywhere.
 
